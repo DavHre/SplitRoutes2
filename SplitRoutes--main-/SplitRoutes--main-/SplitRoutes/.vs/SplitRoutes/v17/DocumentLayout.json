@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\splitroutes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|c:\\docs\\csproj\\splitroutes\\splitroutes--main-\\splitroutes--main-\\splitroutes\\splitroutes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|c:\\docs\\csproj\\splitroutes\\splitroutes--main-\\splitroutes--main-\\splitroutes\\splitroutes\\meterreadingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\meterreadingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\splitroutes\\walks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\walks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\splitroutes\\connclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\connclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|c:\\docs\\csproj\\splitroutes\\splitroutes--main-\\splitroutes--main-\\splitroutes\\splitroutes\\walkdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\walkdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\splitroutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D0E155-EC5F-492B-BD84-F4404FFAFA42}|SplitRoutes\\SplitRoutes.csproj|solutionrelative:splitroutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeterReadingDetails.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\MeterReadingDetails.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\MeterReadingDetails.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\MeterReadingDetails.cs",
+              "RelativeToolTip": "SplitRoutes\\MeterReadingDetails.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:28:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Walks.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Walks.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\Walks.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Walks.cs",
+              "RelativeToolTip": "SplitRoutes\\Walks.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:10:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Program.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\Program.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Program.cs",
+              "RelativeToolTip": "SplitRoutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:11:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnClass.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\ConnClass.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\ConnClass.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\ConnClass.cs",
+              "RelativeToolTip": "SplitRoutes\\ConnClass.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:11:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Form1.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\Form1.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Form1.cs",
+              "RelativeToolTip": "SplitRoutes\\Form1.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAawG4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:09:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Form1.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\Form1.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\Form1.cs [Design]",
+              "RelativeToolTip": "SplitRoutes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:08:53.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalkDetails.cs",
+              "DocumentMoniker": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\WalkDetails.cs",
+              "RelativeDocumentMoniker": "SplitRoutes\\WalkDetails.cs",
+              "ToolTip": "C:\\docs\\CsProj\\SplitRoutes\\SplitRoutes--main-\\SplitRoutes--main-\\SplitRoutes\\SplitRoutes\\WalkDetails.cs",
+              "RelativeToolTip": "SplitRoutes\\WalkDetails.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:33:25.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
